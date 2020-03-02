@@ -22,7 +22,7 @@ public class testCalc {
 	@Test
 	public void test2() {
 		Calc obj = new Calc();
-		assertEquals(4,obj.add(2,2));
+		assertEquals( 4 ,obj.add(2,2));
 	}
 	@Test
 	public void T3() {
